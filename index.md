@@ -24,8 +24,8 @@ keywords: Ken Bao, Ken, Bao, Environmental Economics, Natural Resource Economics
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
-            <img src="C:\Users\Ken\Desktop\KensWork\Photos\headshot_ucsb_econ.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+            <img src="../assets/headshot.jpg"
+                  title="Ken Bao" alt="Ken Bao"/></a>
         </div>
     </div>
 </div>
