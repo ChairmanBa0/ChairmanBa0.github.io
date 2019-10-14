@@ -1,11 +1,11 @@
 ---
 layout: frontpage
-title: Blue Ham
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: Ken Bao
+description: 
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+Hello, welcome to my personal webpage. I am a third year student in the economics PhD program at the University of California Santa Barbara. I'm interested in Environmental and Resource Economics, broadly. In particular, my current work focuses resource management problems and  
+keywords: Ken Bao, Ken, Bao, Environmental Economics, Natural Resource Economics, ERE, UCSB. Economics
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -18,13 +18,13 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Ken Bao<br/>
+            Email: kenbao@ucsb.edu<br/>
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
+            <img src="C:\Users\Ken\Desktop\KensWork\Photos\headshot_ucsb_econ.jpg"
                   title="Blue Ham" alt="Blue Ham"/></a>
         </div>
     </div>
@@ -35,7 +35,7 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://twitter.com/dog_feelings">Twitter (@tok0750)</a></li>
       </ul>
   </div>
 </div>
