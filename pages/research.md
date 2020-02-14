@@ -20,3 +20,8 @@ To decrease the size of the title, use more #.
 To remove the italics, remove the * before and after the description
 To remove the underline from the title, remove the <u> tags (<u> and </u>)
 -->
+
+#### <u>Highway infrastructure and safety implications of AV technology in the motor carrier industry</u>
+*This study explores the infrastructure investments needed to support the adoption of autonomous vehicles and provides potential safety benefits from AV technologies as a possible motivation for such investments. We assume that the motor carrier industry will be (one of) the first adopter(s) of such technologies, and therefore is the focus of this study. Using large truck crash data from 2013 through 2015 obtained from the Missouri State Highway Patrol, Chi-square Automatic Interaction Detection decision trees are estimated to examine the effect of AV technologies on motor carrier crash severity. Results suggest that the greatest contributory predictors of crash severity outcomes are driving too fast for conditions, distracted/inattentive driving, overcorrecting and driving under the influence of alcohol. If these circumstances are altered by AV technologies, it is suggested that between 117 and 193 severe crashes involving large trucks could be prevented annually in Missouri alone. To render such safety benefits, key vehicle needs include autonomously controlling acceleration and steering, monitoring of the environment, and responding to dynamic driving environments without the need for human intervention. Importantly, the safe operations of a system that can perform such AV tasks require readable lane markings to capitalize on potential safety benefits.*
+
+[link](https://www.sciencedirect.com/science/article/abs/pii/S0739885919302707)
