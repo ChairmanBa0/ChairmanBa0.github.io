@@ -11,6 +11,10 @@ description: Ken's research
 
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/npsp.pdf)
 
+#### <u>Non-point Source Pollution and Ambient Taxes: Free Riding Incentives and Sequential Play</u>
+*Ambient taxes oer a promising alternative to ameliorate the problem of non-point source pollution. Such taxes can induce polluters to collectively meet the pollution standard at least cost under certain settings. But in other possibly more realistic settings, it may achieve the pollution standard at higher than least cost if not at highest cost. This result is due to the presence of free-riding incentives and I show in this paper the conditions in which uncertainty about rm types may lead to incorrectly setting the uniform ambient tax rate which then creates free-riding incentives. I also show how the Nash and Sub-game Perfect Nash equilibria diverge in such cases. The main result is that the SPNE is unique, regardless of the value for t and produces a compliance outcome but at the higher than least cost.*
+
+[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/Ambient_tax_paper.pdf)
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 

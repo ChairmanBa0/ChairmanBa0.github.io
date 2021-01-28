@@ -2,10 +2,10 @@
 layout: frontpage
 title: Ken Bao
 description: 
-keywords: Ken Bao, ken bao, Ken, Bao, Environmental Economics, Natural Resource Economics, ERE, UCSB. Economics
+keywords: Ken Bao, ken bao, Ken, Bao, Environmental Economics, Natural Resource Economics, ERE, UCSB, Economics, Ken Bao UCSB
 ---
 
-Hello, welcome to my personal webpage. I am a third year student in the economics PhD program at the University of California Santa Barbara. I'm interested in Environmental and Resource Economics, broadly. In particular, my current work focuses on issues that are similar in vein to problems of public goods provisions. For example, issues related to common pool resource problems or non-point source pollution.  
+Hello, welcome to my personal webpage. I am a fourth year student in the economics PhD program at the University of California Santa Barbara. I'm interested in Environmental and Resource Economics, broadly. In particular, my current work focuses on the regulation of non-point source pollution using group-based policies. I also like to think about the effects that environmental policies have on innovation in green technologies.
 
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
