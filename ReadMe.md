@@ -21,7 +21,7 @@ cd "C:\Users\kqtqh\Desktop\KensWork\academic_website"
 
 4.) Type "git status" to see the changes to be committed
 
-5.) Type "git commit -m (message)"
+5.) Type "git commit -m "message" "
 
 6.) Type "git push -u origin master"
 
